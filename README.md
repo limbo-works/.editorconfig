@@ -6,4 +6,4 @@ This repository is used to administer our `.editorconfig` file. New Visual Studi
 
 ## Have any suggestions?
 
-If you have any suggestions for changes, feel free to either [create an issue](https://github.com/limbo-works/.editorconfig/issues/new) or [submit a pull request](https://github.com/limbo-works/.editorconfig/compare) with the proposed changes. Than we can have a chat about it ;)
+If you have any suggestions for changes, feel free to either [create an issue](https://github.com/limbo-works/.editorconfig/issues/new) or [submit a pull request](https://github.com/limbo-works/.editorconfig/compare) with the proposed changes. Then we can have a chat about it ;)
